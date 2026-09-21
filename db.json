@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Смартфон",
+      "price": 150000,
+      "image": "https://picsum.photos"
+    },
+    {
+      "id": "2",
+      "name": "Наушники",
+      "price": 25000,
+      "image": "https://picsum.photos"
+    },
+    {
+      "id": "3",
+      "name": "Ноутбук",
+      "price": 450000,
+      "image": "https://picsum.photos"
+    }
+  ]
+}
